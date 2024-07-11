@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Sana-Tamreen
-- 👀 I’m interested in Linux, software development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any projects, open to learning new things in the field of computer science
-  
-
-<!---
-Sana-Tamreen/Sana-Tamreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Artificial Intelignec --> Machine Learning, Deep Learning, Computer Vision
+- I'm currently working on 2, continuing my Machine Leanring project ie the CMP466 course (I have uploaded the related code to the project)
+- The second project I am learning and implementing simultaneously similarly to other programmers out there.
+- I'm also learning about Linux.
