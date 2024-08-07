@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sana-Tamreen
 - 👀 I’m interested in Artificial Intelligence --> Machine Learning, Deep Learning, Computer Vision
-- I'm currently working on 2, continuing my Machine Leanring project ie the CMP466 course (I have uploaded the related code to the project)
+- I'm currently working on 2, continuing my Machine Learning project ie the CMP466 course (I have uploaded the related code to the project)
 - The second project I am learning and implementing simultaneously similarly to other programmers out there.
 - I'm also learning about Linux.
